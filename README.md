@@ -6,8 +6,9 @@ I am Praveen Vuppu Jyothi, a passionate product manager and business analyst wit
 I've honed my skills in product ownership, data visualization, and advanced analytics. Dive in to explore a world where data meets creativity!
 
 ---
+## 🛠️ Projects
 
-## 🛠️ Projects and Highlights
+## 🛠️ Highlights
 
 ### 1. 1% Better – Productivity App 📈
 Description: A productivity app designed to help you become just 1% better every day. Currently in the release candidate stage, 
