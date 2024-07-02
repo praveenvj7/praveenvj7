@@ -16,7 +16,7 @@ I've honed my skills in product ownership, data visualization, and advanced anal
 ## Fake News Prediction
 
 **Project Overview**: 
-A machine learning model to predict the authenticity of news articles using NLP techniques.
+A machine learning model to predict the authenticity of news articles using logistic regression .
 
 **Business Problem**: 
 Addresses the spread of misinformation by detecting fake news, supporting informed decision-making, and maintaining information integrity.
