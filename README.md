@@ -8,6 +8,41 @@ I've honed my skills in product ownership, data visualization, and advanced anal
 ---
 ## 🛠️ Projects
 
+## Table of Contents
+
+1. [Fake News Prediction](#fake-news-prediction)
+2. [Insurance Cost Prediction](#insurance-cost-prediction)
+
+## Fake News Prediction
+
+**Project Overview**: 
+A machine learning model to predict the authenticity of news articles using NLP techniques.
+
+**Business Problem**: 
+Addresses the spread of misinformation by detecting fake news, supporting informed decision-making, and maintaining information integrity.
+
+**Usage**:
+1. Install dependencies: `pip install numpy pandas nltk scikit-learn`
+2. Clone the repository: `git clone https://github.com/yourusername/fake_news_prediction.git`
+3. Run the script: `python fake_news_prediction.py`
+
+## Insurance Cost Prediction
+
+**Project Overview**: 
+A Python program for insurance price prediction using linear regression.
+
+**Business Problem**: 
+Insurance companies need to predict the cost of insurance for individuals accurately to set premiums fairly and manage risks effectively. By using machine learning models to predict insurance charges, companies can better estimate costs, optimize pricing strategies, and improve customer satisfaction.
+
+**Usage**:
+1. Install dependencies: `pip install pandas numpy matplotlib seaborn scikit-learn`
+2. Clone the repository: `git clone https://github.com/yourusername/insurance_cost_prediction.git`
+3. Run the script: `python insurance_cost_per_person_prediction.py`
+
+---
+
+This concise format provides essential information about each project, making it easy for others to understand and use your work. Feel free to replace the placeholders with the actual URLs of your repositories.
+
 ## 🛠️ Highlights
 
 ### 1. 1% Better – Productivity App 📈
