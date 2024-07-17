@@ -10,7 +10,7 @@ I've honed my skills in product ownership, data visualization, and advanced anal
 
 ## Table of Contents
 
-1. [Fake News Prediction](#fake-news-prediction)
+1. [Fake News Prediction](#fake-news-prediction
 2. [Insurance Cost Prediction](#insurance-cost-prediction)
 
 ## Fake News Prediction
