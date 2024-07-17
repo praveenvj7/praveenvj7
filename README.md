@@ -70,6 +70,7 @@ With built-in feedback mechanisms, this app is set to revolutionize the way comp
 - Jupyter Notebook
 - Google Collab
 - Power BI
+- Tableau
 
 ### Product Management:
 - Agile Methodology
