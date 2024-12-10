@@ -1,4 +1,4 @@
-# 🚀 Praveen Sai Kumar Vuppu Jyothi's Code Playground 🌟
+# Praveen Sai Kumar Vuppu Jyothi's Code Playground 
 
 ### Welcome to my GitHub Repository!
 
