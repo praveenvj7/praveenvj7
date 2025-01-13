@@ -53,7 +53,7 @@ With built-in feedback mechanisms, this app is set to revolutionize the way comp
 Northeastern University, Boston, MA  
 Sep 2021 - Dec 2022
 
-### Certificate Program in Product Management**
+### Certificate Program in Product Management
 Cornell University, Ithaca, NY  
 Oct 2023 - Jan 2024
 
