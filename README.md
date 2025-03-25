@@ -5,21 +5,6 @@
 I am Praveen Vuppu Jyothi, a passionate product manager and business analyst with a knack for turning complex data into actionable insights. With over 3 years of experience,
 I've honed my skills in product ownership, data visualization, and advanced analytics. Dive in to explore a world where data meets creativity!
 
-
-## 🛠️ Highlights
-
-### 1. 1% Better – Productivity App 📈
-Description: A productivity app designed to help you become just 1% better every day. Currently in the release candidate stage, 
-this app aims to transform your daily habits and boost your efficiency.
-- Tech Stack: Flutter,SQL,Power BI,Azure DevOps
-- Features: Habit tracking, analytics dashboard, personalized goals
-
-### 2. HireRight – Gen-AI Hiring Solution 🤖
-Description: An innovative hiring solution leveraging Gen-AI to streamline the recruitment process. 
-With built-in feedback mechanisms, this app is set to revolutionize the way companies hire.
-- Stage: Concept
-  
-
 ## 🧑‍💻 Skills and Expertise
 
 ### Programming & Database:
@@ -73,8 +58,7 @@ Oct 2023 - Jan 2024
 
 ## 💡 Fun Fact
 
-When I'm not working on my next big idea, you can find me exploring new coffee blends! I'm the founder of One94 Inc, where we're leading the development of two apps: "1% Better," a productivity app in its release candidate stage, and "HireRight," a Gen-AI hiring solution with a built-in feedback mechanism in the concept stage.
----
+When I'm not working on my next big idea, you can find me exploring new coffee blends! 
 
 Feel free to explore my repositories, raise issues, and contribute. Let's make something amazing together!
 
