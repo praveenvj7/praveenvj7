@@ -38,7 +38,7 @@ I've honed my skills in product ownership, data visualization, and advanced anal
 Northeastern University, Boston, MA  
 Sep 2021 - Dec 2022
 
-### Certificate Program in Product Management
+### Graduate Certificate in Product Management
 Cornell University, Ithaca, NY  
 Oct 2023 - Jan 2024
 
