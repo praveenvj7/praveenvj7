@@ -50,7 +50,7 @@ Oct 2023 - Jan 2024
 
 ## 🌟 Let's Connect!
 
-- LinkedIn: [Praveen VJ](https://www.linkedin.com/in/praveen-sai-kumar-vj/)
+- LinkedIn: [Praveen VJ](https://www.linkedin.com/in/praveenvuppujyothi-dataanalyst)
 - Email: [praveenvuppujyothi@gmail.com](mailto:praveenvuppujyothi@gmail.com)
 - Location: Plainfield, NJ
 
