@@ -7,6 +7,9 @@ I've honed my skills in advanced analytics, product ownership and data visualiza
 
 ## 🧑‍💻 Skills and Expertise
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/praveenvj7?theme=unicorn&ext=heatmap)
+
+
 ### Programming & Database:
 - Python (Expert)
 - SQL (Expert)
