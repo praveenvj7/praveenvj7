@@ -3,7 +3,7 @@
 ### Welcome to my GitHub Repository!
 
 I am Praveen Vuppu Jyothi, a data scientist with a knack for turning complex data into actionable insights. With over 3 years of experience,
-I've honed my skills in product ownership, data visualization, and advanced analytics. Dive in to explore a world where data meets creativity!
+I've honed my skills in advanced analytics, product ownership and data visualization. Dive in to explore a world where data meets creativity!
 
 ## 🧑‍💻 Skills and Expertise
 
