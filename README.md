@@ -5,6 +5,8 @@
 I am Praveen Vuppu Jyothi, a data scientist with a knack for turning complex data into actionable insights. With over 3 years of experience,
 I've honed my skills in advanced analytics, product ownership and data visualization. Dive in to explore a world where data meets creativity!
 
+
+### My Blog
 I focus on simplifying the complex US healthcare ecosystem, turning intricate policies and data into clear, actionable insights. Check out my in-depth analyses and articles on Medium: (https://medium.com/@praveen.vupu).
 
 
